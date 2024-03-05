@@ -22,6 +22,7 @@ To run the script and tests, you will need the following gems:
 - `net/http`: Used for making HTTP requests.
 - `json`: For handling data in JSON format.
 - `rspec`: Used for writing and running automated tests.
+
 Make sure you have these gems installed in your Ruby environment before proceeding.
 
 - To run the script, use the command: ruby Project.rb
