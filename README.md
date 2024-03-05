@@ -4,6 +4,7 @@ Para executar o script e os testes, você precisará das seguintes gemas:
 
 - `csv`: Utilizada para manipulação de arquivos CSV.
 - `net/http`: Utilizada para realizar solicitações HTTP.
+- `json`: Para manipulação de dados no formato JSON.
 - `rspec`: Utilizada para escrever e executar testes automatizados.
 
 Certifique-se de ter essas gemas instaladas em seu ambiente Ruby antes de prosseguir.
