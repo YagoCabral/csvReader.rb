@@ -9,8 +9,8 @@ Para executar o script e os testes, você precisará das seguintes gemas:
 
 Certifique-se de ter essas gemas instaladas em seu ambiente Ruby antes de prosseguir.
 
-Para executar o script, utilize o comando: ruby Project.rb
-Para executar o teste, utilize o comando: rspec TestProject.rb
+- Para executar o script, utilize o comando: ruby Project.rb
+- Para executar o teste, utilize o comando: rspec TestProject.rb
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -18,11 +18,11 @@ The csvReader is a Ruby script developed to simplify the integration of lead dat
 
 To run the script and tests, you will need the following gems:
 
-csv: Used for CSV file manipulation.
-net/http: Used for making HTTP requests.
-json: For handling data in JSON format.
-rspec: Used for writing and running automated tests.
+- `csv`: Used for CSV file manipulation.
+- `net/http`: Used for making HTTP requests.
+- `json`: For handling data in JSON format.
+- `rspec`: Used for writing and running automated tests.
 Make sure you have these gems installed in your Ruby environment before proceeding.
 
-To run the script, use the command: ruby Project.rb
-To run the test, use the command: rspec TestProject.rb
+- To run the script, use the command: ruby Project.rb
+- To run the test, use the command: rspec TestProject.rb
