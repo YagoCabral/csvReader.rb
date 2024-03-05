@@ -6,6 +6,8 @@ Para executar o script e os testes, você precisará das seguintes gemas:
 - `net/http`: Utilizada para realizar solicitações HTTP.
 - `json`: Para manipulação de dados no formato JSON.
 - `rspec`: Utilizada para escrever e executar testes automatizados.
+- `rspec/mocks`: Utilizada para criar objetos simulados (mocks) durante os testes.
+- `webmock/rspec`: Utilizada para simular solicitações HTTP durante os testes.
 
 Certifique-se de ter essas gemas instaladas em seu ambiente Ruby antes de prosseguir.
 
@@ -22,6 +24,8 @@ To run the script and tests, you will need the following gems:
 - `net/http`: Used for making HTTP requests.
 - `json`: For handling data in JSON format.
 - `rspec`: Used for writing and running automated tests.
+- `rspec/mocks`: Used for creating mocks during testing.
+- `webmock/rspec`: Used for simulating HTTP requests during testing.
 
 Make sure you have these gems installed in your Ruby environment before proceeding.
 
